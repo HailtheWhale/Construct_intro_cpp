@@ -2,7 +2,7 @@
 - Completed by Donovan Gegg 
 
 ## Dependencies 
-Base repository with rosbot control class here: https://bitbucket.org/theconstructcore/cpp_course_repo.git
+Base repository with rosbot control class here: https://bitbucket.org/theconstructcore/cpp_course_repo.git. Replace src folder with this one to get working. 
 
 ## What's This Repo About?
 To demonstrate course contents, with an added twist to demonstrate material understanding. 
